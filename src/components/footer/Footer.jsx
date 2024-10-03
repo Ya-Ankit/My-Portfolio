@@ -16,8 +16,8 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer__socials">
-      <a href="https://www.linkedin.com/in/rasif-tagizada/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
-      <a href="https://github.com/Rasif-Taghizada" target="_blank" rel="noreferrer" ><FaGithub /></a>
+      <a href="" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
+      <a href="" target="_blank" rel="noreferrer" ><FaGithub /></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; Your Name 2024. All rights reserved.</small>
